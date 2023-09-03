@@ -3,7 +3,7 @@ I'm a Statistician and Data Scientist who loves transforming complex data into u
 - 👀 I'm interested in leveraging data to create meaningful impact.
 - 🌱 Currently, I'm honing my skills in machine learning and Artificial Intelligence.
 - 💞️ I'm open to collaborate on projects that involve data-driven problem-solving.
-- 📫 You can contact me at maristchibuike@outlook.com.
+- 📫 You can contact me at maristchibuike01@gmail.com.
 
 ### My Toolbox 🛠️
 
