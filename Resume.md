@@ -72,10 +72,8 @@ Passionate data science and data engineering enthusiast with a strong foundation
    * Achieved an accuracy rate of 85% in sales predictions.
    * Enabled better inventory management and demand forecasting.
 
-* **Nigeria GDP Trends Analysis**
+* **Nigeria GDP, Population and Leadership Trends Data Analysis**
    * Conducted an in-depth analysis of Nigeria's GDP data to identify trends and patterns.
    * Presented findings to stakeholders, guiding investment decisions.
-
-* **Population and Leadership Data Analysis**
    * Conducted statistical analysis on Nigeria's population and leadership data.
    * Discovered correlations between leadership trends and demographic factors.
