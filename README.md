@@ -15,9 +15,10 @@ I'm a Statistician and Data Scientist who loves transforming complex data into u
 
 ### Connect with Me 🌐
 
-- LinkedIn: [www.linkedin.com/in/maristco](https://www.linkedin.com/in/maristco/)
+- LinkedIn: [Linkedin Page](https://www.linkedin.com/in/maristco/)
 - DataCamp: [My DataCamp Portfolio](https://www.datacamp.com/profile/maristchibuike)
-
+- My Blog:  [Project Post Page](https://maristats.blogspot.com)
+  
 Let's work together to harness the power of data for innovation and growth!
 
 ---
