@@ -10,10 +10,10 @@ I'm a Statistician and Data Scientist who loves transforming complex data into u
 - Languages: Python, SQL
 - Tools: Power BI, Excel, SPSS
 - Visualization: Matplotlib, Seaborn, Power BI
-- Machine Learning: Scikit-learn, TensorFlow
+- Machine Learning: Onboarding
 - Survey: CSPro, CAPI
 
-### Connect with Me 🌐
+### Let's Connect 🌐
 
 - LinkedIn: [Linkedin Page](https://www.linkedin.com/in/maristco/)
 - DataCamp: [My DataCamp Portfolio](https://www.datacamp.com/profile/maristchibuike)
